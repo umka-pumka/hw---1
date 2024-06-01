@@ -1,0 +1,21 @@
+.header {
+    background-color: black;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+    color: white;
+}
+
+.logo {
+    font-size: 24px;
+    text-decoration: none;
+    color: white;
+}
+
+.nav-link {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+}
